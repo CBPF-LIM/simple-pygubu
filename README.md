@@ -1,0 +1,18 @@
+# Simple pygubu
+
+  Pybugu é uma ferramenta dupla que oferece um editor de janela (pybugu-design) e uma biblioteca para importar seu layout de forma dinâmica (pygubu).
+
+  Este repositório contém alguns exemplos para utilizar a biblioteca. Assista o vídeo aqui:
+
+https://www.youtube.com/watch?v=ng_2V--b348
+
+  Você vai precisar de:
+
+```bash
+$ pip install pygubu pygubu-designer
+```
+
+Página dos projetos pygubu:
+
+* https://github.com/alejandroautalan/pygubu
+* https://github.com/alejandroautalan/pygubu-designer
